@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "genero": "Literatura Brasileira",
+        "ano": 1899,
+        "avaliacao": 4.5
+    },
+    {
+        "id": 2,
+        "titulo": "Grande Sertão: Veredas",
+        "autor": "João Guimarães Rosa",
+        "genero": "Literatura Brasileira",
+        "ano": 1956,
+        "avaliacao": 4.7
+    },
+    {
+        "id": 3,
+        "titulo": "A Moreninha",
+        "autor": "Joaquim Manuel de Macedo",
+        "genero": "Literatura Brasileira",
+        "ano": 1844,
+        "avaliacao": 4.2
+    }
+]
